@@ -44,7 +44,7 @@ Playlist: https://www.youtube.com/watch?v=GS_ZH1CQ0SY&list=PLmtT_GZAQdt-9QNWJw1v
 
 ## Sistemas Digitais I <a name="sd"></a>
 
-Os slides e a didática do Elieser já são perfeitos, não precisaram de mais nada. Abaixo deixarei softwares que usaram durante as aulas.
+Os slides e a didática do Elieser já são perfeitos, não precisarão de mais nada. Abaixo deixarei softwares que usarão durante as aulas.
 
 ### Programas:
 - CEDAR Logic: https://sourceforge.net/projects/cedarlogic/
