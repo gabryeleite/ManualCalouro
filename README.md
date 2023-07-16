@@ -1,3 +1,7 @@
+# Bem vindos ao primeiro semestre
+
+Neste repositótio compartilharei algumas recomendações que os ajudarão neste semestre.
+
 ## Matérias
 
 - [Cálculo I](#calculo)
