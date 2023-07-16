@@ -24,8 +24,13 @@ Acredito que a principal materia neste semestre. Abaixo estará canais para estu
 
 ### Canais:
 - Gustavo Guanabara (Portugol): https://www.youtube.com/@CursoemVideo
-- Matemateca: https://www.youtube.com/@Matemateca
-- Blackpen (Inglês): https://www.youtube.com/@blackpenredpen
+- De aluno para aluno (C): https://www.youtube.com/@DeAlunoParaAluno
+- Programe seu futuro (C): https://www.youtube.com/@programeseufuturo
+
+*Obs: Caso nunca tenha tido contato com programação acredito que o Gustavo Guanabara ajudará mais, mesmo não sendo em C. A didática dele é muito boa, e por ser em portugol talvez seja mais fácil de compreender pela primeira vez. Playlist: https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV*
+
+### Exercícios e códigos:
+- Link.
 
 ## Álgebra Linear <a name="algebra"></a>
 
