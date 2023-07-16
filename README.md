@@ -4,6 +4,7 @@
 - [Algoritmos](#algoritmo)
 - [Álgebra Linear](#algebra)
 - [Sistemas Digitais I](#sd)
+- [Matemática Discreta e Finita I](#discreta)
 
 ## Cálculo I <a name="calculo"></a>
 
@@ -49,3 +50,7 @@ Os slides e a didática do Elieser já são perfeitos, não precisarão de mais 
 ### Programas:
 - CEDAR Logic: https://sourceforge.net/projects/cedarlogic/
 - Logisim: https://sourceforge.net/projects/circuit/
+
+## Matemática Discreta e Finita I <a name="discreta"></a>
+
+fé.
