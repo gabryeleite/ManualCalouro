@@ -3,6 +3,7 @@
 - [Cálculo I](#calculo)
 - [Algoritmos](#algoritmo)
 - [Álgebra Linear](#algebra)
+- [Sistemas Digitais I](#sd)
 
 ## Cálculo I <a name="calculo"></a>
 
@@ -40,3 +41,11 @@ Deixarei o canal da Matemateca que foi quem me ajudou nesta materia, a explicaç
 - Matemateca: https://www.youtube.com/@Matemateca
 
 Playlist: https://www.youtube.com/watch?v=GS_ZH1CQ0SY&list=PLmtT_GZAQdt-9QNWJw1vzJldnuyGmdidq
+
+## Sistemas Digitais I <a name="sd"></a>
+
+Os slides e a didática do Elieser já são perfeitos, não precisaram de mais nada. Abaixo deixarei softwares que usaram durante as aulas.
+
+### Programas:
+- CEDAR Logic: https://sourceforge.net/projects/cedarlogic/
+- Logisim: https://sourceforge.net/projects/circuit/
