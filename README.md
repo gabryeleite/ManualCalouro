@@ -34,4 +34,9 @@ Acredito que a principal materia neste semestre. Abaixo estará canais para estu
 
 ## Álgebra Linear <a name="algebra"></a>
 
-Esta é a seção de conclusão.
+Deixarei o canal da Matemateca que foi quem me ajudou nesta materia, a explicação é bem tranquila e os vídeos não são longos.
+
+### Canais:
+- Matemateca: https://www.youtube.com/@Matemateca
+
+Playlist: https://www.youtube.com/watch?v=GS_ZH1CQ0SY&list=PLmtT_GZAQdt-9QNWJw1vzJldnuyGmdidq
