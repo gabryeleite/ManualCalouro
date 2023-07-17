@@ -36,7 +36,8 @@ Acredito que a principal materia neste semestre. Abaixo estará canais para estu
 *Obs: Caso nunca tenha tido contato com programação acredito que o Gustavo Guanabara ajudará mais, mesmo não sendo em C. A didática dele é muito boa, e por ser em portugol talvez seja mais fácil de compreender pela primeira vez. Playlist: https://www.youtube.com/watch?v=8mei6uVttho&list=PLHz_AreHm4dmSj0MHol_aoNYCSGFqvfXV*
 
 ### Exercícios e códigos:
-- Link.
+- Listas: https://github.com/gabryeleite/1-Semestre/blob/main/LIstas_Algoritmos.zip
+- Códigos: https://github.com/gabryeleite/1-Semestre/blob/main/Codigos.zip
 
 ## Álgebra Linear <a name="algebra"></a>
 
