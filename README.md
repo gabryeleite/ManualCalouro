@@ -22,7 +22,8 @@ Uma das principais matérias neste primeiro semestre. Abaixo estará bons canais
 Playlist que mais me ajudou: https://www.youtube.com/watch?v=jQI0bsCtdws&list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC
 
 ### Listas de Exercícios:
-- Link: https://github.com/gabryeleite/1-Semestre/blob/main/Listas_Calculo1.zip
+- Listas: https://github.com/gabryeleite/1-Semestre/blob/main/Listas_Calculo1.zip
+- Livro: https://futuraengenheira.wordpress.com/2017/04/14/calculo-james-stewart-7a-edicao-vol-2/
 
 ## Algoritmos <a name="algoritmo"></a>
 
