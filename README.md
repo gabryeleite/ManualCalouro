@@ -10,6 +10,13 @@ Neste repositótio compartilharei algumas recomendações que os ajudarão neste
 - [Sistemas Digitais I](#sd)
 - [Matemática Discreta e Finita I](#discreta)
 
+## Atividades Extracurriculares
+
+- [Ramo IEEE](#ramo)
+- [Wie](#wie)
+- [Iniciação Científica](#ic)
+- [Atlética](#atletica)
+
 ## Cálculo I <a name="calculo"></a>
 
 Uma das principais matérias neste primeiro semestre. Abaixo estará bons canais para estudar e listas de exercícios.
