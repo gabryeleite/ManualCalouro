@@ -147,7 +147,7 @@ A carteirinha será importante para ganhar descontos em cinema, eventos e outros
 2. Procure Documentos -> Emissão da Carteirinha
 3. Emita a carteirinha
 
-OBS: se você a perder, deverá emitir uma nova via, porém esse processo é limitado.
+*Obs: se você a perder, deverá emitir uma nova via, porém esse processo é limitado.*
 
 ## Créditos RU <a name="ru"></a>
 
