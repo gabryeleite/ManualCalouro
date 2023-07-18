@@ -17,6 +17,13 @@ Neste repositótio compartilharemos algumas recomendações que os ajudarão nes
 - [Iniciação Científica](#ic)
 - [Atlética](#atletica)
 
+## Portal do Estudante
+
+- [Matrícula](#matricula)
+- [Boletim](#boletim)
+- [Carteirinha](#carteirinha)
+- [Créditos RU](#ru)
+
 ## Cálculo I <a name="calculo"></a>
 
 Uma das principais matérias neste primeiro semestre. Abaixo estará bons canais para estudar e listas de exercícios.
