@@ -19,6 +19,7 @@ Neste repositótio compartilharemos algumas recomendações que os ajudarão nes
 
 ## Portal do Estudante
 
+- [App UEL](#app)
 - [Matrícula](#matricula)
 - [Boletim](#boletim)
 - [Carteirinha](#carteirinha)
@@ -123,6 +124,12 @@ Como o universitário precisa de uma alegria na vida, temos os projetos extras l
 - **Lolloteria**: https://www.instagram.com/lolloteria/
 
 ---
+
+## App UEL mobile <a name="app"></a>
+
+O app acaba por ser mais prático que o próprio portal. Abaixo terá o link de download para Android e IOS:
+- Adroid: https://play.google.com/store/apps/details?id=br.uel.ati.app.uel_mobile&hl=pt_BR
+- IOS: https://apps.apple.com/br/app/uel-mobile/id1532054516
 
 ## Matrícula <a name="matricula"></a>
 
