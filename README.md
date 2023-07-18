@@ -95,7 +95,7 @@ Instituto de Engenheiros Eletricistas e Eletrônicos: uma organização mundial 
 - **Robotics and Automation Society (RAS)**: voltado para a robótica e automação de eletrônicos
 - **Society on Social Implications of Technology (SSIT)**: por fim, esse capítulo cuida de projetos ligados a ações solidárias, visando cuidar da comunidade através da tecnologia
 
-Resumindo, temos um ramo, para ganhar horas, aprender, se desafiar em novos projetos, mostrar suas habilidades, fazer amiguinhos e networking, e melhor: tudo num só lugar! Depois dessa mini apresentação, convido você a entrar nos links abaixo e conhecer um pouco mais sobre nosso querido ramo do ❤️. Espero cada um de vocês nos projetos tutoriais ;)
+Resumindo, o ramo auxilia para ganhar horas, aprender, se desafiar em novos projetos, mostrar suas habilidades, fazer amiguinhos e networking, e melhor: tudo num só lugar! Depois dessa mini apresentação, convido você a entrar nos links abaixo e conhecer um pouco mais sobre nosso querido ramo do ❤️. Espero cada um de vocês nos projetos tutoriais ;)
 
 - **Site Mundial (Inglês)**: https://www.ieee.org/
 - **Site IEEE UEL**: https://www.ieeeuel.org/
