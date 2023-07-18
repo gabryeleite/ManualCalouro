@@ -1,4 +1,4 @@
-# Bem vindes ao primeiro semestre
+# Bem vindos(as) ao primeiro semestre
 
 Neste repositótio compartilharemos algumas recomendações que os ajudarão neste semestre.
 
@@ -158,7 +158,7 @@ Por fim, se você é pobre como eu, e quer filar um ranguinho barato e bom, vai 
 3. Entre na opção e escolha "Compra de créditos"
 4. Depois é só preencher a forma de pagamento e pronto.
 
-Também tem a forma mais simples, que é entrando pelo app e comprando por lá mesmo. 
+Também tem a forma mais simples, que é entrando pelo app e comprando por lá mesmo. Ou comprando pessoalmente nos terminais na frente do RU.
 
 ---
 
