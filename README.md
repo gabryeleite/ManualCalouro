@@ -12,7 +12,7 @@ Neste repositótio compartilharemos algumas recomendações que os ajudarão nes
 
 ## Atividades Extracurriculares
 
-- [Ramo IEEE](#ramo)
+- [Ramo IEEE](#ieee)
 - [Wie](#wie)
 - [Iniciação Científica](#ic)
 - [Atlética](#atletica)
@@ -67,3 +67,39 @@ Os slides e a didática do Elieser já são perfeitos, não precisarão de mais 
 ## Matemática Discreta e Finita I <a name="discreta"></a>
 
 fé.
+
+## Ramo IEEE <a name="ieee"></a>
+
+Instituto de Engenheiros Eletricistas e Eletrônicos: uma organização mundial que reúne os engenheiros e nós, cientistas da computação. Acredite em mim, ele é mais importante do que parece. Algumas tecnologias foram criadas pelo IEEE: como o padrão IEEE (spoiler para Sistemas Digitais hehe), utilizado no Wifi 802.11. No ramo da UEL, temos os capítulos, que são sub-áreas de estudo para a organização de projetos e eventos. São eles:
+- **Computer Society (CS)**: o capítulo que representa a computação dentro do ramo. 
+- **Power and Energy Society (PES)**: a área que foca na geração e uso da energia
+- **Robotics and Automation Society (RAS)**: voltado para a robótica e automação de eletrônicos
+- **Society on Social Implications of Technology (SSIT)**: por fim, esse capítulo cuida de projetos ligados a ações solidárias, visando cuidar da comunidade através da tecnologia
+
+Resumindo, temos um ramo, para ganhar horas, aprender, se desafiar em novos projetos, mostrar suas habilidades, fazer amiguinhos e networking, e melhor: tudo num só lugar! Depois dessa mini apresentação, convido você a entrar nos links abaixo e conhecer um pouco mais sobre nosso querido ramo do ❤️. Espero cada um de vocês nos projetos tutoriais ;)
+
+- **Site Mundial (Inglês)**: https://www.ieee.org/
+- **Site IEEE UEL**: https://www.ieeeuel.org/
+- **Instagram IEEE UEL**: https://www.instagram.com/ieeeuel/
+- **Youtube IEEE UEL**: https://www.youtube.com/RamoIEEEUEL
+
+PS: no canal do Youtube do ramo você pode encontrar alguns vídeos explicativos de programação em C e alguns projetinhos feitos anteriormente.
+
+## Wie <a name="wie"></a>
+
+O Women In Engineering faz parte do IEEE, porém, quero dar um destaque a mais para ele. O projeto é mundial, e como o nome já diz, é voltado para as mulheres. Ele tem o objetivo de incentivar a entrada de cada vez mais mulheres na área da engenharia. Na UEL, o Wie atualmente engloba meninas da Computação, Engenharia Elétrica e Civil. É importante sua participação e colaboração para um tema tão importante quanto esse, além de, claro, ganhar horinhas complementares. ❤️
+
+- **Site Mundial (Inglês)**: https://wie.ieee.org/
+- **Instagram do Wie UEL**: https://www.instagram.com/wie.uel/
+
+
+## Iniciação Científica <a name="ic"></a>
+
+A Iniciação Científica, para quem não sabe, é uma oportunidade que você pode ter de estudar um tema (depende do professor que você escolher) ganhando uma bolsa 🤑 e horas complementares para a sua formação acadêmica. A maioria dos alunos que fazem IC optam por fazer mais tarde, nos 2° e 3° anos. Mas nada te impede de começar desde o primeiro semestre, se esse for o seu objetivo. Aqui não tem nenhum link, porque não tem outro jeito: você terá que perguntar de professor em professor pelo DC. 
+
+## Atlética <a name="atletica"></a>
+
+Como o universitário precisa de uma alegria na vida, temos os projetos extras ligados a nossa querida atlética Exatas 💜. Você pode participar contribuindo em esportes ou na bateria Lolloteria. Além das festas que rolam por lá, é claro. Para ambas as modalidades, deixarei o Instagram para que vocês conversem com os diretores e se informem melhor do que tiver interesse. Bora Mamutetas ;)
+
+- **Exatas**: https://www.instagram.com/exatasuel/
+- **Lolloteria**: https://www.instagram.com/lolloteria/
