@@ -114,7 +114,9 @@ O Women In Engineering faz parte do IEEE, porém, quero dar um destaque a mais p
 
 ## Iniciação Científica <a name="ic"></a>
 
-A Iniciação Científica, para quem não sabe, é uma oportunidade que você pode ter de estudar um tema (depende do professor que você escolher) ganhando uma bolsa 🤑 e horas complementares para a sua formação acadêmica. A maioria dos alunos que fazem IC optam por fazer mais tarde, nos 2° e 3° anos. Mas nada te impede de começar desde o primeiro semestre, se esse for o seu objetivo. Aqui não tem nenhum link, porque não tem outro jeito: você terá que perguntar de professor em professor pelo DC. 
+A Iniciação Científica, para quem não sabe, é uma oportunidade que você pode ter de estudar um tema (depende do professor que você escolher) ganhando uma bolsa 🤑 e horas complementares para a sua formação acadêmica. A maioria dos alunos que fazem IC optam por fazer mais tarde, nos 2° e 3° anos. Mas nada te impede de começar desde o primeiro semestre, se esse for o seu objetivo. Para conseguir entrar em um projeto terá que perguntar de professor em professor mesmo, ou enviando emails.
+
+No link a seguir terá o currículo e pesquisas de cada professor do departamento, a fim de ver qual te interessa mais: https://sites.uel.br/dc/docentes-e-tecnicos/
 
 ## Atlética <a name="atletica"></a>
 
