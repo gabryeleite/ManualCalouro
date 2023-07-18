@@ -55,14 +55,11 @@ Acredito que a principal materia neste semestre. Abaixo estará canais para estu
 ### Exercícios e códigos:
 - Listas: https://github.com/gabryeleite/1-Semestre/blob/main/LIstas_Algoritmos.zip
 - Códigos: https://github.com/gabryeleite/1-Semestre/blob/main/Codigos.zip
+- Livros: https://github.com/gabryeleite/1-Semestre/blob/main/Livros_Algoritmos.zip
 
-### Livros:
-
-Eieieiii não pule este tópico! Mesmo você que não é muito fã de leitura (aprenda a gostar), estes livros talvez te ajude como iniciante. Aqui, quero recomendar dois que li e que me ajudaram:
-- "**Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos**" de Aditya Y. Bhargava. Um livro de linguagem simples, intuitiva e com desenhos para você entender melhor. Ler ele é tão leve, que dá vontade de continuar lendo e colocar o conteúdo em prática, sem muito termo técnico, simples mesmo. Os exemplos do livro estão em Python, porém, no [repositório do Git Hub](https://github.com/egonSchiele/grokking_algorithms), temos conversões para outras linguagens como o C, que vamos utilizar na UELzinha.
-- "**Introdução  à Programação em C: Os primeiros passos de um desenvolvedor**" de Maurício Aniche. Este livro contém 3 projetos (joguinhos) que você vai montar ao decorrer do livro. Bom para colocar a linguagem C em prática e aprender algumas coisinhas. Mas, este recomendo caso você já tenha uma base, pois não é tão explicativo como o outro livro. Ele é mais um passo a passo, um algoritmo de como codificar os joguinhos :)
-
-E como a educação deve ser gratuita, aqui está o link para eles: https://github.com/gabryeleite/1-Semestre/blob/main/Livros_Algoritmos.zip
+Eieieiii não pule este tópico! Mesmo que você não seja muito fã de leitura (aprenda a gostar), estes livros talvez te ajudem como iniciante:
+- "**Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos**" de Aditya Y. Bhargava. Um livro de linguagem simples, intuitiva e com desenhos para entender melhor. Lê-lo é tão leve, que dá vontade de continuar e colocar o conteúdo em prática, sem muito termo técnico, simples mesmo. Os exemplos do livro estão em Python, porém, no [repositório do Git Hub](https://github.com/egonSchiele/grokking_algorithms), temos conversões para outras linguagens como o C, que vamos utilizar na UELzinha.
+- "**Introdução  à Programação em C: Os primeiros passos de um desenvolvedor**" de Maurício Aniche. Ele contém 3 projetos (joguinhos) que você montará ao decorrer do livro. Bom para colocar a linguagem C em prática e aprender mais algumas coisinhas. COntudo, este recomendo caso já tenha uma base, pois não é tão explicativo como o outro. Se trata mais de um passo a passo, um algoritmo de como codificar os joguinhos :)
 
 ## Álgebra Linear <a name="algebra"></a>
 
@@ -95,14 +92,14 @@ Instituto de Engenheiros Eletricistas e Eletrônicos: uma organização mundial 
 - **Robotics and Automation Society (RAS)**: voltado para a robótica e automação de eletrônicos
 - **Society on Social Implications of Technology (SSIT)**: por fim, esse capítulo cuida de projetos ligados a ações solidárias, visando cuidar da comunidade através da tecnologia
 
-Resumindo, o ramo auxilia para ganhar horas, aprender, se desafiar em novos projetos, mostrar suas habilidades, fazer amiguinhos e networking, e melhor: tudo num só lugar! Depois dessa mini apresentação, convido você a entrar nos links abaixo e conhecer um pouco mais sobre nosso querido ramo do ❤️. Espero cada um de vocês nos projetos tutoriais ;)
+Resumindo, o ramo auxilia para ganhar horas, aprender, se desafiar em novos projetos, mostrar suas habilidades, fazer amiguinhos e networking, e melhor: tudo num só lugar! Depois dessa mini apresentação, convidamos você a entrar nos links abaixo e conhecer um pouco mais sobre nosso querido ramo do ❤️. Esperamos cada um de vocês nos projetos tutoriais ;)
 
 - **Site Mundial (Inglês)**: https://www.ieee.org/
 - **Site IEEE UEL**: https://www.ieeeuel.org/
 - **Instagram IEEE UEL**: https://www.instagram.com/ieeeuel/
 - **Youtube IEEE UEL**: https://www.youtube.com/RamoIEEEUEL
 
-PS: no canal do Youtube do ramo você pode encontrar alguns vídeos explicativos de programação em C e alguns projetinhos feitos anteriormente.
+*Obs: No canal do ramo no Youtube poderá encontrar alguns vídeos explicativos de programação em C e projetinhos feitos anteriormente.*
 
 ## Wie <a name="wie"></a>
 
