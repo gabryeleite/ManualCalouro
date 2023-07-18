@@ -1,4 +1,4 @@
-# Bem vindos ao primeiro semestre
+# Bem vindes ao primeiro semestre
 
 Neste repositótio compartilharemos algumas recomendações que os ajudarão neste semestre.
 
@@ -23,6 +23,8 @@ Neste repositótio compartilharemos algumas recomendações que os ajudarão nes
 - [Boletim](#boletim)
 - [Carteirinha](#carteirinha)
 - [Créditos RU](#ru)
+
+---
 
 ## Cálculo I <a name="calculo"></a>
 
@@ -54,6 +56,14 @@ Acredito que a principal materia neste semestre. Abaixo estará canais para estu
 - Listas: https://github.com/gabryeleite/1-Semestre/blob/main/LIstas_Algoritmos.zip
 - Códigos: https://github.com/gabryeleite/1-Semestre/blob/main/Codigos.zip
 
+### Livros:
+
+Eieieiii não pule este tópico! Mesmo você que não é muito fã de leitura (aprenda a gostar), estes livros talvez te ajude como iniciante. Aqui, quero recomendar dois que li e que me ajudaram:
+- "**Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos**" de Aditya Y. Bhargava. Um livro de linguagem simples, intuitiva e com desenhos para você entender melhor. Ler ele é tão leve, que dá vontade de continuar lendo e colocar o conteúdo em prática, sem muito termo técnico, simples mesmo. Os exemplos do livro estão em Python, porém, no [repositório do Git Hub](https://github.com/egonSchiele/grokking_algorithms), temos conversões para outras linguagens como o C, que vamos utilizar na UELzinha.
+- "**Introdução  à Programação em C: Os primeiros passos de um desenvolvedor**" de Maurício Aniche. Este livro contém 3 projetos (joguinhos) que você vai montar ao decorrer do livro. Bom para colocar a linguagem C em prática e aprender algumas coisinhas. Mas, este recomendo caso você já tenha uma base, pois não é tão explicativo como o outro livro. Ele é mais um passo a passo, um algoritmo de como codificar os joguinhos :)
+
+E como a educação deve ser gratuita, aqui está o link para eles: https://github.com/gabryeleite/1-Semestre/blob/main/Livros_Algoritmos.zip
+
 ## Álgebra Linear <a name="algebra"></a>
 
 Deixarei o canal da Matemateca que foi quem me ajudou nesta materia, a explicação é bem tranquila e os vídeos não são longos.
@@ -74,6 +84,8 @@ Os slides e a didática do Elieser já são perfeitos, não precisarão de mais 
 ## Matemática Discreta e Finita I <a name="discreta"></a>
 
 fé.
+
+---
 
 ## Ramo IEEE <a name="ieee"></a>
 
@@ -110,3 +122,44 @@ Como o universitário precisa de uma alegria na vida, temos os projetos extras l
 
 - **Exatas**: https://www.instagram.com/exatasuel/
 - **Lolloteria**: https://www.instagram.com/lolloteria/
+
+---
+
+## Matrícula <a name="matricula"></a>
+
+Para fazer sua matrícula, confirmação de matrícula, renovação e outros serviços da UEL relacionados ao estudante, você deve entrar no Portal do Estudante de Graduação. Caso você ainda não tenha acessado, entre no link: https://sistemas.uel.br/portaldoestudante/ 
+
+Fazer sua confirmação de matrícula e renovação de matrícula é bem simples: 
+1. Entre no portal com seu número de matrícula e a senha que você definiu
+2. Procure em Serviços -> Confirmação de matrícula ou Serviços -> Renovação de matrícula
+3. Siga o que se pede. Geralmente é um formulário simples ou um botão de "renovar". Bem simples mesmo
+
+## Boletim <a name="boletim"></a>
+
+Seguindo nos tópicos do portal, o boletim você poderá conferir em Serviços -> Boletim :)
+Ah, e nele você também pode ver quantas faltas já tem na matéria (se o professor lançar no portal) e o máximo de faltas que você pode ter em cada uma delas. Lembre que para ser aprovado, você precisa ter frequência mínima de 75% do tempo das aulas. Você também poderá conferir sua nota e faltas no app da UEL, bem mais prático.
+
+## Carteirinha <a name="carteirinha"></a>
+
+A carteirinha será importante para ganhar descontos em cinema, eventos e outros lugares, mas também para entrar no RU. Agora, também é possível entrar com a carteirinha digital do app UEL Mobile, então não se preocupe com isso. Lembrando que essa carteirinha você NÃO utilizará para ganhar desconto em transportes públicos. O cartão escolar deve ser emitido pelo sistema da TCGL. Para emitir sua carteirinha:
+
+1. Entre no portal
+2. Procure Documentos -> Emissão da Carteirinha
+3. Emita a carteirinha
+
+OBS: se você a perder, deverá emitir uma nova via, porém esse processo é limitado.
+
+## Créditos RU <a name="ru"></a>
+
+Por fim, se você é pobre como eu, e quer filar um ranguinho barato e bom, vai precisar de créditos para almoçar no Resturante Universitário. Também é simples: 
+
+1. Entre no portal do estudante
+2. Procure Serviços -> Créditos Restaurante Universitário 
+3. Entre na opção e escolha "Compra de créditos"
+4. Depois é só preencher a forma de pagamento e pronto.
+
+Também tem a forma mais simples, que é entrando pelo app e comprando por lá mesmo. 
+
+---
+
+Por enquanto é isso que vocês precisam para sobreviver no primeiro semestre de Computação na crUELzinha. Nós, veteranos, esperamos poder ajudar nessa nova fase da vida de vocês. Se precisarem de ajuda, fiquem à vontade para perguntar para nós. E que comecem os jogos !!! ;D 
