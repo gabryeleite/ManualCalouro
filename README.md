@@ -137,11 +137,11 @@ Fazer sua confirmação de matrícula e renovação de matrícula é bem simples
 ## Boletim <a name="boletim"></a>
 
 Seguindo nos tópicos do portal, o boletim você poderá conferir em Serviços -> Boletim :)
-Ah, e nele você também pode ver quantas faltas já tem na matéria (se o professor lançar no portal) e o máximo de faltas que você pode ter em cada uma delas. Lembre que para ser aprovado, você precisa ter frequência mínima de 75% do tempo das aulas. Você também poderá conferir sua nota e faltas no app da UEL, bem mais prático.
+Ah, e nele você também pode ver quantas faltas já tem na matéria (se o professor lançar no portal) e o máximo de faltas que poderá ter em cada uma delas. Lembre que para ser aprovado, você precisa ter frequência mínima de 75% das aulas. Você também poderá conferir as notas e faltas pelo app da UEL, bem mais prático.
 
 ## Carteirinha <a name="carteirinha"></a>
 
-A carteirinha será importante para ganhar descontos em cinema, eventos e outros lugares, mas também para entrar no RU. Agora, também é possível entrar com a carteirinha digital do app UEL Mobile, então não se preocupe com isso. Lembrando que essa carteirinha você NÃO utilizará para ganhar desconto em transportes públicos. O cartão escolar deve ser emitido pelo sistema da TCGL. Para emitir sua carteirinha:
+A carteirinha será importante para ganhar descontos em cinema, eventos e outros lugares, mas também para entrar no RU. Agora, também é possível entrar com a carteirinha digital do app UEL Mobile, então não se preocupe com isso. Lembrando que com essa carteirinha NÃO ganhará descontos em transportes públicos. O cartão escolar deve ser emitido pelo sistema da TCGL. Para emitir sua carteirinha:
 
 1. Entre no portal
 2. Procure Documentos -> Emissão da Carteirinha
@@ -151,7 +151,7 @@ A carteirinha será importante para ganhar descontos em cinema, eventos e outros
 
 ## Créditos RU <a name="ru"></a>
 
-Por fim, se você é pobre como eu, e quer filar um ranguinho barato e bom, vai precisar de créditos para almoçar no Resturante Universitário. Também é simples: 
+Por fim, se você é pobre como eu, e quer filar um ranguinho barato e bom, vai precisar de créditos para almoçar no Resturante Universitário: 
 
 1. Entre no portal do estudante
 2. Procure Serviços -> Créditos Restaurante Universitário 
