@@ -64,7 +64,7 @@ Eieieiii não pule esta parte! Mesmo que você não seja muito fã de leitura (a
 
 ## Álgebra Linear <a name="algebra"></a>
 
-Deixarei o canal da Matemateca que foi quem me ajudou nesta materia, a explicação é bem tranquila e os vídeos não são longos.
+Deixarei o canal da Matemateca que foi quem nos ajudou nesta materia, a explicação é bem tranquila e os vídeos não são longos.
 
 ### Canais:
 - Matemateca: https://www.youtube.com/@Matemateca
