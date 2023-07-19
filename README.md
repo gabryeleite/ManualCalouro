@@ -58,7 +58,7 @@ Acredito que a principal materia neste semestre. Abaixo estará canais para estu
 - Códigos: https://github.com/gabryeleite/1-Semestre/blob/main/Codigos.zip
 - Livros: https://github.com/gabryeleite/1-Semestre/blob/main/Livros_Algoritmos.zip
 
-Eieieiii não pule este tópico! Mesmo que você não seja muito fã de leitura (aprenda a gostar), estes livros talvez te ajudem como iniciante:
+Eieieiii não pule esta parte! Mesmo que você não seja muito fã de leitura (aprenda a gostar), estes livros talvez te ajudem como iniciante:
 - "**Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos**" de Aditya Y. Bhargava. Um livro de linguagem simples, intuitiva e com desenhos para entender melhor. Lê-lo é tão leve, que dá vontade de continuar e colocar o conteúdo em prática, sem muito termo técnico, simples mesmo. Os exemplos do livro estão em Python, porém, no [repositório do Git Hub](https://github.com/egonSchiele/grokking_algorithms), temos conversões para outras linguagens como o C, que vamos utilizar na UELzinha.
 - "**Introdução  à Programação em C: Os primeiros passos de um desenvolvedor**" de Maurício Aniche. Ele contém 3 projetos (joguinhos) que você montará ao decorrer do livro. Bom para colocar a linguagem C em prática e aprender mais algumas coisinhas. COntudo, este recomendo caso já tenha uma base, pois não é tão explicativo como o outro. Se trata mais de um passo a passo, um algoritmo de como codificar os joguinhos :)
 
