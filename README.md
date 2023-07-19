@@ -168,4 +168,6 @@ Também tem a forma mais simples, que é entrando pelo app e comprando por lá m
 
 ---
 
-Por enquanto é isso que vocês precisam para sobreviver no primeiro semestre de Computação na crUELzinha. Nós, veteranos, esperamos poder ajudar nessa nova fase da vida de vocês. Se precisarem de ajuda, fiquem à vontade para perguntar para nós. E que comecem os jogos !!! ;D 
+Por enquanto é isso que vocês precisam para sobreviver no primeiro semestre de Computação na crUELzinha. Nós, veteranos, esperamos poder ajudar nessa nova fase da vida de vocês. Se precisarem de qualquer coisa, fiquem à vontade para nos perguntar. E que comecem os jogos !!! ;D
+
+Colaborada: [Isadora Vanço](https://github.com/isadoravanco) :)
