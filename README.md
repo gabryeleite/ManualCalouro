@@ -57,6 +57,7 @@ Acredito que a principal materia neste semestre. Abaixo estará canais para estu
 - Listas: https://github.com/gabryeleite/1-Semestre/blob/main/LIstas_Algoritmos.zip
 - Códigos: https://github.com/gabryeleite/1-Semestre/blob/main/Codigos.zip
 - Livros: https://github.com/gabryeleite/1-Semestre/blob/main/Livros_Algoritmos.zip
+- Site para treinar: https://www.beecrowd.com.br/
 
 Eieieiii não pule esta parte! Mesmo que você não seja muito fã de leitura (aprenda a gostar), estes livros talvez te ajudem como iniciante:
 - "**Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos**" de Aditya Y. Bhargava. Um livro de linguagem simples, intuitiva e com desenhos para entender melhor. Lê-lo é tão leve, que dá vontade de continuar e colocar o conteúdo em prática, sem muito termo técnico, simples mesmo. Os exemplos do livro estão em Python, porém, no [repositório do Git Hub](https://github.com/egonSchiele/grokking_algorithms), temos conversões para outras linguagens como o C, que vamos utilizar na UELzinha.
