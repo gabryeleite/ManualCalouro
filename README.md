@@ -36,7 +36,7 @@ Uma das principais matérias neste primeiro semestre. Abaixo estará bons canais
 - Matemateca: https://www.youtube.com/@Matemateca
 - Blackpen (Inglês): https://www.youtube.com/@blackpenredpen
 
-Playlist que mais me ajudou: https://www.youtube.com/watch?v=jQI0bsCtdws&list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC
+Playlist que mais nos ajudou: https://www.youtube.com/watch?v=jQI0bsCtdws&list=PLEfwqyY2ox86LhxKybOY3_IG-7R5herLC
 
 ### Listas de Exercícios:
 - Listas: https://github.com/gabryeleite/1-Semestre/blob/main/Listas_Calculo1.zip
