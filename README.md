@@ -59,6 +59,12 @@ Acredito que a principal materia neste semestre. Abaixo estará canais para estu
 - Livros: https://github.com/gabryeleite/1-Semestre/blob/main/Livros_Algoritmos.zip
 - Site para treinar: https://www.beecrowd.com.br/
 
+### Curso em Vídeo
+
+Produzido pelo Gustavo Guanabara, neste site vocês encontraram basicamente todos os cursos possíveis de programação e mais. Os cursos são totalmente gratuitos e ainda emitem certificado ao finalizados. E como já mencionei anteriormente, a didática e organização deste professor são sensacionais. Vale a pena dar uma olhada :)
+
+Link: https://www.cursoemvideo.com/
+
 Eieieiii não pule esta parte! Mesmo que você não seja muito fã de leitura (aprenda a gostar), estes livros talvez te ajudem como iniciante:
 - "**Entendendo Algoritmos: um guia ilustrado para programadores e outros curiosos**" de Aditya Y. Bhargava. Um livro de linguagem simples, intuitiva e com desenhos para entender melhor. Lê-lo é tão leve, que dá vontade de continuar e colocar o conteúdo em prática, sem muito termo técnico, simples mesmo. Os exemplos do livro estão em Python, porém, no [repositório do Git Hub](https://github.com/egonSchiele/grokking_algorithms), temos conversões para outras linguagens como o C, que vamos utilizar na UELzinha.
 - "**Introdução  à Programação em C: Os primeiros passos de um desenvolvedor**" de Maurício Aniche. Ele contém 3 projetos (joguinhos) que você montará ao decorrer do livro. Bom para colocar a linguagem C em prática e aprender mais algumas coisinhas. Contudo, este recomendo caso já tenha uma base, pois não é tão explicativo como o outro. Se trata mais de um passo a passo, um algoritmo de como codificar os joguinhos :)
@@ -84,7 +90,9 @@ Os slides e a didática do Elieser já são perfeitos, não precisarão de mais 
 
 fé.
 
-Livros: [Matemática discreta: uma introdução](https://dokumen.tips/documents/scheinerman-matematica-discreta-uma-introducao-completopdf.html?page=1)
+### Canais e livros:
+- XekMat: https://www.youtube.com/@xekmatbr (Canal do próprio professor)
+- Livros: [Matemática discreta: uma introdução](https://dokumen.tips/documents/scheinerman-matematica-discreta-uma-introducao-completopdf.html?page=1)
 **|** [2°Edição](https://tsxvpsbr.dyndns.org/arquivos/UFFS/Matem%C3%A1ticaDiscreta-UmaIntrodu%C3%A7%C3%A3o-2aEd-EdwardRScheinerman.pdf) 
 
 ---
