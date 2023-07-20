@@ -91,7 +91,7 @@ Os slides e a didática do Elieser já são perfeitos, não precisarão de mais 
 fé.
 
 ### Canais e livros:
-- XekMat: https://www.youtube.com/@xekmatbr (Canal do próprio professor)
+- XekMat: https://www.youtube.com/@xekmatbr *(Canal do próprio professor)*
 - Livros: [Matemática discreta: uma introdução](https://dokumen.tips/documents/scheinerman-matematica-discreta-uma-introducao-completopdf.html?page=1)
 **|** [2°Edição](https://tsxvpsbr.dyndns.org/arquivos/UFFS/Matem%C3%A1ticaDiscreta-UmaIntrodu%C3%A7%C3%A3o-2aEd-EdwardRScheinerman.pdf) 
 
